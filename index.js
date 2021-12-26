@@ -8,7 +8,7 @@ function main() {
 }
 
 function main2() {
-    return 99;
+    return 303;
 }
 
 function test() {
