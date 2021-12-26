@@ -1,5 +1,10 @@
+class App {
+    constructor() {
+        main();
+    }
+}
 function main() {
-    return 1;
+    return 99;
 }
 
 function test() {
