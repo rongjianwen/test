@@ -1,5 +1,7 @@
+class App {
+}
 function main() {
-    return 0;
+    return 1;
 }
 function test() {
 }
