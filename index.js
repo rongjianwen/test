@@ -1,13 +1,13 @@
 class App {
     constructor() {
-        main();
+        main2();
     }
 }
 function main() {
     return 0;
 }
 
-function main() {
+function main2() {
     return 99;
 }
 
